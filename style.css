@@ -15,7 +15,8 @@
 #cover {
   width: 100%;
   height: 80vh;
-  background: url(../images/cover.jpg) no-repeat center center fixed;
+  background: url('https://www.cleanipedia.com/images/iohqr4whhl17/6RbnIA4VPO7RtPnkdvtgqw/9b8e2f5cffab510e40ed93b9af17378a/d2hpdGUtMjU2Mzk3Nl8xOTIwLnBuZw/990w-660h/ventana-blanca-en-madera-y-2-jarrones-con-flores.jpg')
+    no-repeat center center fixed;
   background-size: cover;
   position: relative;
   top: 0;
