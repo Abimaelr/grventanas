@@ -162,7 +162,7 @@ address a {
 }
 
 address a:hover {
-  color: #fff;
+  color: rgb(255, 179, 179);
   text-decoration: none;
 }
 
